@@ -1,0 +1,4 @@
+# Conversor de Monedas
+
+Este proyecto se trata de in conversor de monedas el cual consta de dos botones, el de "Realizar Conversión" y "Ver Historial de Conversiones". Al momento de que el usuario quiera realizar una conversion, solo tendra que seleccionar uno de los paises que se le muestra y debera de colocar el valor de la moneda que desearia. Despues vera un boton "Convertir", el cual mostrara un parrafo con los detalles que el usuario necesita para tener clara la conversion.
+Se creo un archivo JSON en el cual contiene el nombre del país y el precio de la moneda para Colombia. Por lo que el valor resultado sera en pesos colombianos.

@@ -1,0 +1,26 @@
+[
+    {
+        "pais": "Estados Unidos",
+        "precio": 3860.00
+    },
+    {
+        "pais": "Argentina",
+        "precio": 245.96
+    },
+    {
+        "pais": "Brasil",
+        "precio": 747.32
+    },
+    {
+        "pais": "México",
+        "precio": 197.20
+    },
+    {
+        "pais": "Euro",
+        "precio": 4184.06
+    },
+    {
+        "pais": "Reino Unido",
+        "precio": 5205.68
+    }
+]
